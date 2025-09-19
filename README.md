@@ -24,7 +24,7 @@ A simple yet fun **Tic-Tac-Toe** game built in two flavors:
 
 ### How to Run Locally
 1. Clone the repository:
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/AtsushiakaRaju/Tic-Tac-Toe.git
 2. Open `index.html` in any modern browser.
 
 ---
@@ -62,5 +62,3 @@ g++ gamedev010/game1.cpp -o game1
 
 ---
 
-## 📜 License
-This project is open source. You may modify or distribute it under your preferred license.
