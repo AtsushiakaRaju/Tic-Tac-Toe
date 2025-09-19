@@ -10,8 +10,7 @@ A simple yet fun **Tic-Tac-Toe** game built in two flavors:
 ## 🎮 Web Version
 
 ### ▶️ Live Demo
-(If hosted with GitHub Pages, add your link here)
-Example: https://<your-username>.github.io/<repo-name>/
+(https://atsushiakaraju.github.io/Tic-Tac-Toe/)
 
 ### Features
 - Two Modes:
