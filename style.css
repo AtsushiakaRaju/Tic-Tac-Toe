@@ -174,7 +174,7 @@ body {
     font-weight: bold;
     font-family: var(--font-primary);
     cursor: pointer;
-    background-color: var(--bg-color);
+    background-color: #877f7c;
     border-radius: 8px;
     transition: background-color 0.2s ease;
 }
